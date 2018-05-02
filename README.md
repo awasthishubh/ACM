@@ -1,6 +1,6 @@
 # reachOutToUs
 
-###about?
+### About?
 ----------
 [This repository](https://github.com/akshitgrover/Reverse_Coding_Portal) holds the backend part of the ACM Reach Out To Us
 
